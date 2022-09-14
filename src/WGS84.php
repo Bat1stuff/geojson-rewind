@@ -9,4 +9,3 @@ class WGS84 {
     const POLAR_RADIUS = self::RADIUS * (1 - self::FLATTENING);
 }
 
-?>
